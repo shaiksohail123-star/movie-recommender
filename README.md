@@ -14,11 +14,13 @@ A content-based movie recommendation system built using Machine Learning and dep
 
 ### 🏠 Home Page
 
-![Home](assets/home.png)
+<img width="1920" height="925" alt="moive before search" src="https://github.com/user-attachments/assets/c7d85795-6b68-45a8-b4e0-e0c9a6f3d45b" />
+
 
 ### 🎯 Recommendations
 
-![Recommendations](assets/recommendations.png)
+<img width="1920" height="923" alt="moive after search" src="https://github.com/user-attachments/assets/90541416-b8eb-4e0c-8702-6cc810541bad" />
+
 
 ---
 
@@ -87,7 +89,7 @@ pip install -r requirements.txt
 Create `.streamlit/secrets.toml`:
 
 ```
-API_KEY = "your_api_key_here"
+API_KEY = "c1950dd9794d8fcaa8d273ecbd3902dd"
 ```
 
 ### 4. Run the app
