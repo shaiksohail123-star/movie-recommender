@@ -19,7 +19,8 @@ A content-based movie recommendation system built using Machine Learning and dep
 
 ### 🎯 Recommendations
 
-<img width="1920" height="923" alt="moive after search" src="https://github.com/user-attachments/assets/90541416-b8eb-4e0c-8702-6cc810541bad" />
+<img width="1920" height="922" alt="moive after search" src="https://github.com/user-attachments/assets/aeb6f9e7-3418-42f9-a7ba-8be7d7c01834" />
+
 
 
 ---
