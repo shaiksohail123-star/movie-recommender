@@ -1,12 +1,13 @@
-Movie Recommender 🎬
+# 🎬 Movie Recommender
 
-Features:
-- Content-based filtering
-- TMDB API integration
-- Streamlit UI
-- Deployed app
+## 🔗 Live Demo
+https://your-app.streamlit.app
 
-Tech Stack:
+## 🚀 Features
+- Personalized recommendations
+- Movie posters using TMDB API
+
+## 🛠 Tech Stack
 - Python
 - Pandas
 - Scikit-learn
